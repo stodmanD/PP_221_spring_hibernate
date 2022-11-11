@@ -46,9 +46,6 @@ public class MainApp {
          System.out.println("Series by Car = " + user.getEmpCar().getSeries());
          System.out.println();
       }
-
-
-
       context.close();
    }
 }
